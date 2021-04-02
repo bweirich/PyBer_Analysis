@@ -21,6 +21,7 @@ The results of this summary will help to determine the profitability of a city t
 
 ### Overview of Results
 The overview of results show that urban areas have a larger number of rides given as well as the highest number of drivers.  Urban fares on a whole tend to be lower.  Suburban number of rides, number of drivers and fares tend to fall in the middle.  Rural areas tend to have the lowest number of rides and the lowest number of drivers.  Rural areas tend to have the highest overall fares and the highest variance in fare price.  The overall results can be seen in the table and graph below.
+
 ![alt_text](https://raw.githubusercontent.com/bweirich/PyBer_Analysis/main/Resources/Analysis/pyber_Summary.png)
 ![alt_text](https://raw.githubusercontent.com/bweirich/PyBer_Analysis/main/Resources/Analysis/Fig1.png)
 
